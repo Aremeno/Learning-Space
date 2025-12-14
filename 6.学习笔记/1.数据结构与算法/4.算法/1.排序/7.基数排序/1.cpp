@@ -41,7 +41,7 @@ void countingSort(vector<int>& arr,int exp) {
     // 3.从后向前遍历原数组
     for (int i = n - 1;i >= 0;i--) {
         int digit = getDigit(arr[i],exp);
-        output[count[i] - 1] = arr[i];
+        output[count[digit] - 1] = arr[i];
         count[digit]--;
     }
 
