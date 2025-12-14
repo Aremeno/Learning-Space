@@ -76,7 +76,12 @@ void delete_value_list(Node *head,int value) {
 
 void free_list(Node *head) {
     Node *current = head;
-    
+    while(current != NULL) {
+        Node* tem = current;
+        current = current->next;
+        free(tem);
+    }
+    free(head);
 }
 
 int main()
@@ -92,5 +97,6 @@ int main()
     printf("请输入你要删除的节点值：");
     scanf("%d",&value);
     delete_value_list(head,value);
+    free_list(head);
     return 0;
 }
