@@ -1,0 +1,19 @@
+# 编辑器临时文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统自动生成的
+.DS_Store
+Thumbs.db
+
+# 可执行文件、编译产物
+*.exe
+*.out
+*.o
+*.obj
+
+# 日志、临时数据
+*.log
+*.tmp
