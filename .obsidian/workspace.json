@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "288cfc06e61ef441",
+        "id": "be18e4599553dc43",
         "type": "tabs",
         "children": [
           {
-            "id": "ca28053428dbe5cf",
+            "id": "fe26862a53730316",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "核心语法/01.数据存储与运算/1.字面量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.字面量 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -176,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 632.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca28053428dbe5cf",
+  "active": "4b0932b8df2c15d7",
   "lastOpenFiles": [
+    "04_CS-基础/01_偏底层基础/程序中的进制转换.md",
+    "02_英语",
+    "新建文件夹",
+    "01_数学",
     "05.工具与环境/01_markdown.md",
     "README.md",
     "07.全栈开发/01_前端/05_React/1.快速入门.md",
@@ -220,16 +223,12 @@
     "07.全栈开发/01_前端/02_HTML/6.列表.md",
     "07.全栈开发/01_前端/01_入门/2.CSS入门.md",
     "07.全栈开发/01_前端/01_入门/3.JS入门.md",
-    "06.学习心得与经验/02_读书笔记/思维-方法论/程序员的思维修炼/积极实践的四个条件.md",
     "README.tmp",
     "convert.bat",
     "新建 Text Document.txt",
     "英语六级/翻译",
     "英语六级/作文/作业",
     "英语六级/作文",
-    "英语六级",
-    "Agents/Hello-Agents",
-    "Agents",
-    "python/2.数据容器"
+    "英语六级"
   ]
 }

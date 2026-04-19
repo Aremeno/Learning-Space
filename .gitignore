@@ -17,3 +17,10 @@ Thumbs.db
 # 日志、临时数据
 *.log
 *.tmp
+
+# Obsidian 软件配置文件，不上传git
+.obsidian/
+*/.obsidian/
+
+# 本地草稿临时文件夹（你后续可以补加00_Inbox放在最顶部）
+00_Inbox/
