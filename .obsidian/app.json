@@ -2,5 +2,6 @@
   "promptDelete": false,
   "focusNewTab": false,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "livePreview": true
 }

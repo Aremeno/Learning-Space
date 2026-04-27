@@ -1,7 +1,7 @@
 [
   "open-in-new-tab",
-  "quicklink",
-  "obsidian-copy-block-link",
   "obsidian-advanced-uri",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings"
 ]

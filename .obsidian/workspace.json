@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be18e4599553dc43",
+        "id": "9751728783b8cb24",
         "type": "tabs",
         "children": [
           {
-            "id": "fe26862a53730316",
+            "id": "028d1b75638dd611",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +17,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -49,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:大模型[[[[[基础](基础.md)]([基础](基础.md).md)]([[基础](基础.md)]([基础](基础.md).md).md)]([[[基础](基础.md)]([基础](基础.md).md)]([[基础](基础.md)]([基础](基础.md).md).md).md)]([[[[基础](基础.md)]([基础](基础.md).md)]([[基础](基础.md)]([基础](基础.md).md).md)]([[[基础](基础.md)]([基础](基础.md).md)]([[基础](基础.md)]([基础](基础.md).md).md).md).md)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/2.数据容器/03.tuple.md",
+                "file": "00_Inbox/02_大模型调用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03.tuple 的反向链接列表"
+              "title": "02_大模型调用 的反向链接列表"
             }
           },
           {
@@ -109,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "核心语法/01.数据存储与运算/1.字面量.md",
-                "linksCollapsed": false,
+                "file": "00_Inbox/02_大模型调用.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.字面量 的出链列表"
+              "title": "02_大模型调用 的出链列表"
             }
           },
           {
@@ -124,7 +125,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -171,11 +172,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,47 +190,51 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "quicklink:Auto link scan": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b0932b8df2c15d7",
+  "active": "028d1b75638dd611",
   "lastOpenFiles": [
-    "04_CS-基础/01_偏底层基础/程序中的进制转换.md",
-    "02_英语",
+    "00_Inbox/streamlit.md",
+    "00_Inbox/03_提示词工程.md",
+    "00_Inbox/02_大模型调用.md",
+    "00_Inbox/01_大模型部署.md",
+    "03_编程语言/03_python/1_基础语法/01.数据存储与运算/1.字面量.md",
+    "03_编程语言/03_python/3_web框架/1_FastAPI",
+    "03_编程语言/03_python/3_web框架",
+    "[基础](基础.md).md",
+    "10_image/1 1.jpg",
+    "0.jpg",
+    "10_image/3.jpg",
+    "10_image",
+    "10_image/2.jpg",
+    "10_image/1.jpg",
+    "().md",
+    "03_编程语言/03_python/06_面向对象.md",
+    "03_编程语言/03_python/07_异常.md",
+    "03_编程语言/03_python/03_函数.md",
+    "03_编程语言/03_python/04_类型注解.md",
+    "03_编程语言/03_python/05_模块.md",
+    "03_编程语言/03_python/2_数据容器/05_dict.md",
+    "08_Algorithm/01_理论知识/01.复杂度分析/2.4 空间复杂度.md",
+    "08_Algorithm/01_理论知识/01.复杂度分析/2.3 时间复杂度.md",
+    "08_Algorithm/01_理论知识/01.复杂度分析/2.2 迭代与递归.md",
+    "08_Algorithm/01_理论知识/01.复杂度分析/2.1 算法效率评估.md",
+    "07_前端/05_React/1.快速入门.md",
+    "07_前端/03_CSS/8.基本文本和字体样式.md",
+    "07_前端/03_CSS/7.边框.md",
+    "07_前端/03_CSS/6.盒模型.md",
+    "07_前端/03_CSS/5.关系选择器.md",
+    "07_前端/03_CSS/4.伪类和伪元素.md",
+    "07_前端/03_CSS/3.属性选择器.md",
+    "07_前端/03_CSS/2.选择器简述.md",
+    "07_前端/03_CSS/1.层叠、优先级与继承.md",
+    "08_Algorithm/01_理论知识",
+    "03_编程语言/03_python/3.函数",
+    "02_English",
     "新建文件夹",
-    "01_数学",
-    "05.工具与环境/01_markdown.md",
-    "README.md",
-    "07.全栈开发/01_前端/05_React/1.快速入门.md",
-    "07.全栈开发/01_前端/02_HTML/10.图片.md",
-    "07.全栈开发/01_前端/02_HTML/9.创建超链接.md",
-    "07.全栈开发/01_前端/02_HTML/8.表单与按钮.md",
-    "07.全栈开发/01_前端/02_HTML/7.构建文档.md",
-    "07.全栈开发/01_前端/01_入门/1.HTML入门.md",
-    "07.全栈开发/01_前端/README.md",
-    "07.全栈开发/01_前端/03_CSS/2.选择器简述.md",
-    "07.全栈开发/01_前端/03_CSS/3.属性选择器.md",
-    "07.全栈开发/01_前端/03_CSS/4.伪类和伪元素.md",
-    "07.全栈开发/01_前端/03_CSS/5.关系选择器.md",
-    "07.全栈开发/01_前端/03_CSS/6.盒模型.md",
-    "07.全栈开发/01_前端/03_CSS/7.边框.md",
-    "07.全栈开发/01_前端/03_CSS/8.基本文本和字体样式.md",
-    "07.全栈开发/01_前端/03_CSS/1.层叠、优先级与继承.md",
-    "07.全栈开发/01_前端/02_HTML/1.基本语法.md",
-    "07.全栈开发/01_前端/02_HTML/2.视频和音频.md",
-    "07.全栈开发/01_前端/02_HTML/3.head.md",
-    "07.全栈开发/01_前端/02_HTML/4.标题与段落.md",
-    "07.全栈开发/01_前端/02_HTML/5.强调与着重强调.md",
-    "07.全栈开发/01_前端/02_HTML/6.列表.md",
-    "07.全栈开发/01_前端/01_入门/2.CSS入门.md",
-    "07.全栈开发/01_前端/01_入门/3.JS入门.md",
+    "01_math",
     "README.tmp",
-    "convert.bat",
-    "新建 Text Document.txt",
-    "英语六级/翻译",
-    "英语六级/作文/作业",
-    "英语六级/作文",
-    "英语六级"
+    "convert.bat"
   ]
 }
